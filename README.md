@@ -12,3 +12,4 @@
 1. Car Price Prediction (Linear Reggression)
 2. Medical Insurance Price Prediction (Linear Regression)
 3. Titanic Survival Prediction (Logistic Regression, Decision Trees, SVM, K-NN, Naive Bayes)
+4. Heart Disease Prediction using K-NN
